@@ -1,6 +1,6 @@
 # Promoting Constructive Deliberation: Reframing for Receptiveness
 
-This repository contains the data for the paper Promoting Constructive Deliberation: Reframing for Receptiveness.
+This repository contains the data for the paper [Promoting Constructive Deliberation: Reframing for Receptiveness](https://arxiv.org/abs/2405.15067).
 
 
 ## Overview
